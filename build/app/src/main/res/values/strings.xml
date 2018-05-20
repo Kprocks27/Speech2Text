@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SpeechToText</string>
+    <string name="information">Information</string>
+    <string name="information_txt">information</string>
+    <string name="description_txt">
+</string>
+    <string name="todo">TODO</string>
+    <string name="speech_to_text">Speech2Text</string>
+    <string name="enter_the_name_of_the_file">Enter the name of the file</string>
+    <string name="Directory">Directory</string>
+    <string name="reset">Reset</string>
+</resources>
